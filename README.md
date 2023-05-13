@@ -68,10 +68,12 @@ insertion_sort(list_of_nums)
 
 ## Output:
 selection sort:
-![image](https://github.com/22009011/Sorting-Algorithm/assets/118343461/ea2e6de3-a2ec-4cf1-b885-8a6748991c76)
+![image](https://github.com/22009011/Sorting-Algorithm/assets/118343461/46229d10-ad54-4ff2-b9f4-a10bbc0bddff)
+
 
 insertion sort:
-![image](https://github.com/22009011/Sorting-Algorithm/assets/118343461/0c73da0b-477c-4af7-8ffd-8a88d3e65eb7)
+![image](https://github.com/22009011/Sorting-Algorithm/assets/118343461/403daadf-9bf5-4b40-b3f9-29f5eeafd636)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
